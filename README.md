@@ -5,6 +5,7 @@ te proyecto implementa una red neuronal feedforward para clasificación binaria,
 
 Generación de un dataset sintético balanceado con scikit-learn.
 Implementación manual de:
+
    📌 Forward Propagation
     
    📌 Función de pérdida (Cross-Entropy)
